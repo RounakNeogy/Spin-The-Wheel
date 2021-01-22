@@ -5,6 +5,6 @@ This is a classic spin and wheel game.
 It is deployed at:https://rishikaghosh.github.io/Spin-The-Wheel/
 # Technology Stack
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
-https://forthebadge.com/images/badges/made-with-javascript.svg [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
 
