@@ -7,4 +7,5 @@ It is deployed at:https://rishikaghosh.github.io/Spin-The-Wheel/
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
+![Phaser Header](https://phaser.io/images/github/300/phaser-header.png "Phaser 3 Header Banner")
 
